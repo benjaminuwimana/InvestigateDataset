@@ -2,7 +2,7 @@
 
 This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program. It is a project under the 'Introduction to Data Analysis' lesson.
 
-_
+__
 
 ### Description
 
@@ -13,18 +13,18 @@ Steps to complete the project include:
 - Data wrangling
 - Exploratoty Data Analysis (EDA)
 - Conlusions
-_
+
+__
 
 ### Tools used to complete the project
 
 - Python, Numpy, Pandas, Matplotlib
 - Jupyter Notebook
 
-_
+__
 
 ### Conclusion
 
 Important findings are:
 - The first research question dealing with the trend of movie genres seems to show that the 'Drama' genre has been increasengly associated with most of movies throughout. Though the 'Comedy' genre rose in 1980s, 'Drama' genre seem to dominate thereafter.
 - It looks like 'Drama' genre of movies is associated with both most of movies with high popularity and those with low popularity. This can be justified by the fact that 'Drama' genre is associated with most of movies throughout.
-_
